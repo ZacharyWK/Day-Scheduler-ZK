@@ -5,9 +5,6 @@
  ## Table of Contents.
  * [Overview](#overview)
  * [Design](#overview)
- * [Installation](#overview)
- * [Usage](#overview)
- * [GuideLines](#contribution-guideLines)
  * [Criteria](#given-criteria)
  * [Questions](#have-questions)
  * [Links](#links)
@@ -48,3 +45,7 @@ Tasked to create a simple calendar application that allows a user to save events
 https://github.com/ZacharyWK/Day-Scheduler-ZK
 ```
 
+[DEPLOYED](https://zacharywk.github.io/Day-Scheduler-ZK/)
+```
+https://zacharywk.github.io/Day-Scheduler-ZK/
+```
