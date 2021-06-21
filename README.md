@@ -18,7 +18,7 @@
     Tasked to create a simple calendar application that allows a user to save events for each hour of the day by modifying given starter code. App runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## Design
-![image](./img/image1.png)
+![image](./img/image.png)
 
     UI uses assets from Bootstrap modified with given starter code.
 
