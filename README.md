@@ -1,17 +1,50 @@
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+# 20210607 - Day-Scheduler-ZK 
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+![License](https://img.shields.io/badge/License-Unlicense-blue.svg)
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+ ## Table of Contents.
+ * [Overview](#overview)
+ * [Design](#overview)
+ * [Installation](#overview)
+ * [Usage](#overview)
+ * [GuideLines](#contribution-guideLines)
+ * [Criteria](#given-criteria)
+ * [Questions](#have-questions)
+ * [Links](#links)
+ ---
+
+
+## Overview 
+    Tasked to create a simple calendar application that allows a user to save events for each hour of the day by modifying given starter code. App runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+## Design
+![image](./img/image1.png)
+
+    UI uses assets from Bootstrap modified with given starter code.
+
+
+---
+## Given Criteria
+* Incorporated [Moment.js](https://momentjs.com/) 
+* Current day is displayed at the top of the calendar
+* Uses timeblocks for standard business hours.
+* Timeblock is color coded to indicate whether it is in the past, present, or future.
+* User can input text into a timeblock and save text to local storage. 
+
+
+---
+## Have Questions
+### You can contact me at:
+
+    GITHUB: <https://github.com/ZacharyWK>
+
+    EMAIL: <ZachKrause@live.com>
+
+
+---
+## Links
+[REPOSITORY](https://github.com/ZacharyWK/Day-Scheduler-ZK)
+```
+https://github.com/ZacharyWK/Day-Scheduler-ZK
+```
+
